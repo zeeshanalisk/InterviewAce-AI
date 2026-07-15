@@ -1,0 +1,95 @@
+CATEGORY: Resume Writing, Review, and Optimization
+
+=== RESUME FUNDAMENTALS ===
+A resume is a marketing document, not a biography.
+Goal: Get the interview call. Every line must justify its existence.
+
+=== RESUME SECTIONS (Standard Order) ===
+1. Header (Name, Email, Phone, LinkedIn, GitHub/Portfolio, Location)
+2. Professional Summary / Objective (3–4 lines, role-targeted)
+3. Skills (Technical + Soft skills, organized by category)
+4. Work Experience / Internships (reverse chronological)
+5. Projects (for students/freshers: 2–4 strong projects)
+6. Education (Degree, Institution, GPA if strong, graduation year)
+7. Certifications (IBM SkillsBuild, Coursera, Google, etc.)
+8. Awards / Achievements (optional but impactful)
+
+=== WRITING STRONG BULLET POINTS ===
+Formula: [Action Verb] + [What You Did] + [Result / Impact]
+
+WEAK: "Worked on a machine learning project"
+STRONG: "Built a customer churn prediction model using XGBoost, achieving 92% accuracy and reducing false positives by 34%, deployed via Flask API"
+
+WEAK: "Helped with data analysis"
+STRONG: "Automated monthly sales report generation using Python and Pandas, saving 8 hours of manual work per week"
+
+ACTION VERBS BY CATEGORY:
+- Built / Developed / Engineered / Architected (technical creation)
+- Optimized / Reduced / Improved / Accelerated (performance gains)
+- Launched / Deployed / Shipped / Released (delivery)
+- Led / Managed / Coordinated / Mentored (leadership)
+- Analyzed / Identified / Researched / Investigated (analysis)
+- Designed / Created / Prototyped / Crafted (design/UX)
+- Collaborated / Partnered / Aligned / Facilitated (teamwork)
+
+=== ATS OPTIMIZATION ===
+ATS (Applicant Tracking System) filters ~70% of resumes before a human sees them.
+
+1. Mirror keywords from the job description exactly
+   - If JD says "machine learning" not "ML", use "machine learning"
+2. Use standard section headings (Education, Experience, Skills)
+3. Avoid: tables, columns with multiple text boxes, headers/footers with key info
+4. Prefer: single-column format, standard fonts (Arial, Calibri, Helvetica)
+5. File format: PDF is usually safe; some ATSs prefer DOCX — read the instructions
+6. No images, logos, or icons in standard resume sections
+
+=== FRESHER / STUDENT RESUME TIPS ===
+1. Projects > Work experience: Lead with your best project, not an irrelevant part-time job
+2. Quantify project impact: users, accuracy %, lines of code, performance improvement
+3. Show GitHub link for every project — recruiters will check
+4. GPA: Include if > 3.5/4.0 (or equivalent). Omit if below
+5. Certifications: IBM, Google, AWS certifications carry weight
+6. Include relevant coursework if it matches the JD
+7. Keep to 1 page — ruthlessly cut anything not supporting the target role
+
+=== RESUME REVIEW CHECKLIST ===
+FORMAT:
+[ ] Clean, single-column layout with consistent spacing
+[ ] Font size 10–12pt body, 14–16pt name
+[ ] Standard fonts: Calibri, Arial, Garamond, Georgia
+[ ] Consistent date format (Month YYYY or MM/YYYY)
+[ ] Margins: 0.5–1 inch
+[ ] No photos (unless specifically requested in the region/role)
+[ ] Saved as "[FirstName_LastName_Resume.pdf]"
+
+CONTENT:
+[ ] Every bullet has a metric or concrete outcome
+[ ] No typos or grammatical errors (use Grammarly)
+[ ] No first-person pronouns ("I," "my")
+[ ] Skills section includes the keywords from the JD
+[ ] Projects include: tech stack, your role, results
+[ ] Education section includes graduation year and CGPA if strong
+[ ] Contact info is current and links work (LinkedIn, GitHub)
+[ ] Summary is tailored to the specific role/company
+
+COMMON MISTAKES:
+- Using a generic "Objective" statement (switch to a targeted summary)
+- Listing responsibilities instead of achievements
+- Including every job since high school (only last 10 years / relevant)
+- "References available upon request" (remove — everyone knows)
+- Using passive voice ("was responsible for" → "led," "built," "managed")
+- Too many pages for the experience level
+
+=== SUMMARY WRITING FORMULA ===
+"[Role descriptor] with [X years / relevant background] in [domain]. Experienced in [top 2–3 skills]. [Value statement — what you bring to the employer]. Seeking [role type] at [company type] to [growth goal]."
+
+Example (Fresher):
+"Final-year Computer Science student with hands-on experience in machine learning and full-stack development. Built 4 end-to-end AI projects using Python, TensorFlow, and FastAPI. IBM AI-certified and passionate about applying data science to solve real business problems. Seeking a data science role to contribute to impactful products at a technology-first company."
+
+=== COVER LETTER TIPS ===
+Keep to 3 paragraphs:
+1. Why this company + role (specific, researched)
+2. What you bring (2–3 achievements that match their needs)
+3. Call to action + enthusiasm
+
+Never: copy-paste a generic letter. Customization is mandatory.

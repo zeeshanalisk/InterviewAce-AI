@@ -1,0 +1,97 @@
+CATEGORY: Career Guidance, Professional Development, Job Search Strategy
+
+=== JOB SEARCH STRATEGY ===
+1. Define Your Target
+   - Identify 3 target roles (specific job titles, not broad categories)
+   - Identify 10–15 target companies per batch
+   - Know the difference: startup, scale-up, enterprise, consulting
+
+2. Resume & Application
+   - Tailor resume for each application (ATS keyword matching)
+   - Keep to 1 page for < 5 years experience; 2 pages for senior roles
+   - Lead with a strong summary section (3–4 lines)
+   - Use action verbs + metric (increased, reduced, built, launched + %)
+   - ATS-friendly format: no tables, no images, standard fonts, PDF/DOCX
+
+3. Networking (Accounts for ~70% of hires)
+   - LinkedIn: optimize headline, about section, and featured section
+   - Informational interviews: reach out to 5 people/week in target companies
+   - Template: "Hi [Name], I admire your work at [Company]. I'm exploring [role] and would love 20 minutes of your time to learn from your experience."
+   - Alumni networks, college events, professional communities
+
+4. Interview Pipeline Management
+   - Track all applications in a spreadsheet (company, role, status, contact, date)
+   - Follow up after 7–10 business days if no response
+   - Prepare company-specific answers for each interview
+
+=== LEARNING ROADMAP BY EXPERIENCE ===
+FRESHER / ENTRY LEVEL (0–1 year):
+- Focus: Build foundational skills + 2–3 showcase projects
+- Certifications: IBM SkillsBuild, Google, Coursera, AWS Cloud Practitioner
+- Portfolio: GitHub with 3 quality projects, a personal website/LinkedIn
+- Target: internships, junior roles, graduate programs
+
+MID-LEVEL (2–5 years):
+- Focus: Depth in a domain + cross-functional skills
+- Lead a project, mentor juniors, take ownership of a module
+- Pursue 1–2 advanced certifications
+- Contribute to open source, write technical articles
+
+SENIOR / LEAD (5+ years):
+- Focus: Strategic thinking, architecture, influence
+- Build a personal brand (speaking, writing, community)
+- Develop leadership and people management skills
+- Consider MBA, executive programs, or advanced degrees if targeting management
+
+=== IBM SKILLSBUILD & CERTIFICATION PATHS ===
+AI & Data:
+- IBM AI Foundations for Business (free on SkillsBuild)
+- IBM Data Science Professional Certificate (Coursera)
+- IBM Watson Studio Essentials
+- IBM watsonx.ai for Developers
+
+Cloud:
+- IBM Cloud Essentials
+- IBM Certified Associate Developer – Cloud v4
+- IBM Cloud Professional Architect
+
+Software Engineering:
+- IBM Full Stack Software Developer (Coursera)
+- IBM DevOps and Software Engineering Professional Certificate
+
+Cybersecurity:
+- IBM Cybersecurity Analyst Professional Certificate
+- IBM Security QRadar SIEM
+
+=== LINKEDIN OPTIMIZATION TIPS ===
+1. Professional headshot (increases profile views 14x)
+2. Headline: [Title] | [Skill] | [Value] (not just job title)
+   Example: "Data Science Student | Python & ML | Building AI for Social Good"
+3. About section: 3 paragraphs — who you are, what you do, what you're seeking
+4. Feature section: link to your top project, article, or portfolio
+5. Skills section: 5–10 relevant skills, get endorsements
+6. Recommendations: ask 1–2 colleagues or professors for written recommendations
+7. Engage: comment thoughtfully on posts in your field (2x/week minimum)
+8. Post: share a project, learning, or insight monthly
+
+=== SALARY NEGOTIATION ===
+1. Always negotiate — 85% of employers expect it
+2. Research: Glassdoor, Levels.fyi, LinkedIn Salary, AmbitionBox (India)
+3. Strategy: Let them give the first number; counter 10–15% above target
+4. Never accept on the spot: "I'm very excited. Can I have 24–48 hours to review?"
+5. Negotiate the full package: base, bonus, equity, benefits, WFH policy, learning budget
+6. Use competing offers as leverage (only if real)
+
+=== PROFESSIONAL DEVELOPMENT ===
+HABITS:
+- Read 1 technical article or paper per week
+- Complete 1 online course per quarter
+- Build 1 personal project per quarter
+- Write (blog, LinkedIn article) once a month
+- Network: 5 meaningful interactions per week
+
+RESOURCES:
+- Books: "Cracking the Coding Interview," "The Pragmatic Programmer," "Designing Data-Intensive Applications"
+- Podcasts: Lex Fridman, Software Engineering Daily, The TWIML AI Podcast
+- YouTube: TechLead, Gaurav Sen (system design), Andrej Karpathy (AI)
+- Communities: LinkedIn groups, Discord servers, GitHub, Kaggle, Devfolio
