@@ -1,0 +1,97 @@
+CATEGORY: Behavioral & HR Interview Guidance
+FRAMEWORK: STAR Method (Situation, Task, Action, Result)
+
+=== WHY BEHAVIORAL INTERVIEWS MATTER ===
+Companies use behavioral interviews to predict future performance based on past behavior.
+The core assumption: how you acted in past situations predicts how you'll act in new ones.
+Amazon uses "Leadership Principles," Google uses "Googleyness," IBM uses "IBMer Values."
+
+=== THE STAR METHOD ===
+S - Situation: Set the context. Be specific. (2–3 sentences)
+T - Task: What was your responsibility or goal? (1–2 sentences)
+A - Action: What did YOU do? Use "I" not "we." Be specific about your contribution. (3–5 sentences)
+R - Result: What was the measurable outcome? Quantify when possible. (1–2 sentences)
+
+=== IBM CORE VALUES ===
+1. Dedication to every client's success
+2. Innovation that matters — for our company and for the world
+3. Trust and personal responsibility in all relationships
+
+=== MOST COMMON BEHAVIORAL QUESTIONS ===
+TEAMWORK & COLLABORATION:
+Q: Tell me about a time you worked with a difficult team member.
+Q: Describe a situation where you had to collaborate across departments.
+Q: Tell me about a time you helped a colleague who was struggling.
+
+LEADERSHIP:
+Q: Tell me about a time you led a project or team.
+Q: Describe a situation where you had to influence someone without authority.
+Q: Tell me about a time you stepped up when no one else did.
+
+PROBLEM-SOLVING:
+Q: Describe the most complex problem you've solved.
+Q: Tell me about a time you failed and what you learned.
+Q: Give an example of when you had to make a difficult decision quickly.
+
+ADAPTABILITY:
+Q: Tell me about a time you had to learn something new quickly.
+Q: Describe a situation where priorities changed suddenly. How did you handle it?
+Q: Tell me about a time you worked outside your comfort zone.
+
+COMMUNICATION:
+Q: Tell me about a time you had to explain a complex topic to a non-technical audience.
+Q: Describe a situation where miscommunication caused a problem. What did you do?
+Q: Tell me about a time you gave constructive feedback.
+
+INITIATIVE & OWNERSHIP:
+Q: Tell me about a project you initiated on your own.
+Q: Describe a time you identified and fixed a problem before it became serious.
+Q: Tell me about a time you went above and beyond your job description.
+
+=== MODEL STAR ANSWERS ===
+
+"Tell me about a time you failed":
+S: During my internship, I missed a deadline for a data pipeline because I underestimated the complexity of cleaning a 10M-row dataset.
+T: I was responsible for delivering clean data for the ML team within a 3-day sprint.
+A: I worked overtime, communicated proactively with the team about the delay, broke the task into smaller parallel jobs using multiprocessing, and set up automated alerts for future delays.
+R: Delivered 2 days late, but the incident led me to create a data quality checklist that the team adopted permanently. Zero pipeline failures in the following quarter.
+
+"Tell me about a time you influenced without authority":
+S: I noticed our team's weekly reports were inconsistent and confusing stakeholders.
+T: I had no authority over report creation, but I saw the impact on decision quality.
+A: I created a proposal with a standardized template, shared a prototype with two trusted colleagues for feedback, then presented it informally to the team lead with data showing stakeholder confusion.
+R: The team adopted my template within a month; stakeholder satisfaction in quarterly surveys rose 18%.
+
+=== HR / SALARY / OFFER QUESTIONS ===
+Q: What is your expected salary?
+Tip: Research market rate first. Give a range anchored at your target. "Based on my research and experience, I'm targeting ₹X–₹Y, though I'm open to discussing the full compensation package."
+
+Q: Why are you leaving your current job?
+Tip: Always stay positive. Focus on growth opportunity, not complaints.
+"I've learned a lot in my current role, and I'm now ready for [specific new challenge]. Your company's work on [X] aligns with where I want to grow."
+
+Q: Where do you see yourself in 5 years?
+Tip: Show ambition within the company's trajectory.
+"I see myself growing into a [senior/lead] role where I'm contributing to [domain]. I'd love to build deep expertise in [area] while taking on more responsibility."
+
+Q: What is your greatest weakness?
+Tip: Pick a real weakness. Show self-awareness AND active mitigation.
+"I sometimes over-engineer solutions. I've been working on this by setting time-boxed prototyping periods and explicitly asking stakeholders: 'What is the minimum we need here?'"
+
+=== PREPARATION TIPS ===
+1. Prepare 8–10 STAR stories that can flex across different question types
+2. Keep answers to 90–120 seconds for behavioral questions
+3. Quantify results whenever possible: %, $, time saved, users impacted
+4. Research the company's values and map your stories to them
+5. Practice aloud — not just in your head
+6. Have a "failure" story ready — it shows self-awareness
+7. Mirror the interviewer's energy and vocabulary
+8. Send a thank-you email within 24 hours of any interview
+
+=== BODY LANGUAGE & COMMUNICATION TIPS ===
+- Maintain natural eye contact (video: look at camera, not screen)
+- Speak slowly and clearly under stress — take a breath before answering
+- Use the interviewer's name occasionally
+- Pause to think is fine — say "That's a great question, let me think for a moment"
+- Avoid filler words: "um," "like," "basically"
+- End answers with a clear conclusion, don't trail off
